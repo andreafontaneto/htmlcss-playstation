@@ -184,3 +184,21 @@ MAIN
 .af-ps4-box img{
   width: 100%;
 }
+
+/* ps plus */
+
+.af-psplus{
+  background-color: #B0AEAD;
+}
+
+.af-psplus img{
+  width: 100%;
+}
+
+.af-ps-plus-logo img{
+  width: 60%;
+}
+
+.af-btn-white{
+  background-color: rgba(255, 255, 255, 0.5);
+}
