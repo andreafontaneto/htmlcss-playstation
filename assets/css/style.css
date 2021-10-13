@@ -25,7 +25,7 @@
 }
 
 .af-title2{
-  font-size: 30px;
+  font-size: 27px;
 }
 
 .af-title3{
@@ -162,4 +162,19 @@ MAIN
 
 .af-jumbotron-2{
   background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
+}
+
+/* new games */
+
+.new-games{
+  background-color: #181818;
+}
+
+.af-newgame-box{
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.af-newgame-box img{
+  width: 100%;
 }
