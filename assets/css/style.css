@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.af-cl-w{
+  color: white !important;
+}
+
+.af-cl-b{
+  color: black !important;
+}
+
 /*-----------------------
 HEADER
 -----------------------*/
@@ -41,10 +49,53 @@ HEADER
 }
 
 .af-btn-grey{
+  width: 80px;
   background-color: #292929;
 }
 
 .af-search{
   font-size: 20px;
   margin-left: 20px;
+}
+
+/*-----------------------
+MAIN
+-----------------------*/
+
+/* jumbotron 1 */
+
+.af-jumbotron-1{
+  height: 700px;
+  background-image: url('../img/jumbo-bg.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.af-returnal-logo{
+  width: 100%;
+}
+
+.af-btn-orange{
+  width: 150px;
+  color: white;
+  background-color: #BD2A18 !important;
+}
+
+/* jumbo gallery */
+
+.af-jumbo-gallery{
+  height: 200px;
+  background-color: violet;
+}
+
+.af-jumbo-box{
+  height: 100px;
+  background-color: teal;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.af-jumbo-box img{
+  width: 100%;
 }
