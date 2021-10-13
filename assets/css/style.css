@@ -12,6 +12,26 @@
   color: black !important;
 }
 
+.af-cl-grey{
+  color: grey !important;
+}
+
+.af-cl-blue{
+  color: #135DBF !important;
+}
+
+.af-title1{
+  font-size: 40px;
+}
+
+.af-title2{
+  font-size: 30px;
+}
+
+.af-title3{
+  font-size: 23px;
+}
+
 /*-----------------------
 HEADER
 -----------------------*/
@@ -49,7 +69,6 @@ HEADER
 }
 
 .af-btn-grey{
-  width: 80px;
   background-color: #292929;
 }
 
@@ -77,8 +96,6 @@ MAIN
 }
 
 .af-btn-orange{
-  width: 150px;
-  color: white;
   background-color: #BD2A18 !important;
 }
 
@@ -86,7 +103,6 @@ MAIN
 
 .af-jumbo-gallery{
   height: 200px;
-  background-color: violet;
 }
 
 .af-jumbo-box{
@@ -97,5 +113,43 @@ MAIN
 }
 
 .af-jumbo-box img{
+  width: 100%;
+}
+
+/* playstation 5 */
+
+.af-ps5 > p{
+  font-size: 14px;
+}
+
+.af-ps5-title{
+  margin-bottom: 100px;
+}
+
+.af-btn-blue{
+  background-color: #285AFF !important;
+}
+
+.af-ps5 img{
+  width: 100%;
+}
+
+/* playstation 5 gallery */
+
+.af-ps5-gallery{
+  height: 200px;
+}
+
+.af-ps5-box{
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.af-ps5-gallery .af-active{
+  border-bottom: 2px solid #285AFF;
+}
+
+.af-ps5-box img{
   width: 100%;
 }
