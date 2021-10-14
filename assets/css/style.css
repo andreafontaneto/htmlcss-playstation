@@ -184,13 +184,9 @@ MAIN
   background-color: #181818;
 }
 
-.af-newgame-box{
-  border-radius: 10px;
-  overflow: hidden;
-}
-
 .af-newgame-box img{
   width: 100%;
+  border-radius: 20px;
 }
 
 /* playstaion 4 */
