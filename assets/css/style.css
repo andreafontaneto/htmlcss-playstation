@@ -191,15 +191,17 @@ MAIN
   background-color: #B0AEAD;
 }
 
-.af-psplus img{
+.af-psplus img,
+.af-psnow img{
   width: 100%;
 }
 
-.af-ps-plus-logo img{
+.af-ps-plus-logo img,
+.af-ps-now-logo img{
   width: 60%;
 }
 
-.af-btn-white{
+.af-btn-white2{
   background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -207,4 +209,14 @@ MAIN
 
 .af-psstore img{
   width: 100%;
+}
+
+/* ps now */
+
+.af-psnow{
+  background-color: #12152C;
+}
+
+.af-btn-white{
+  background-color: white;
 }
