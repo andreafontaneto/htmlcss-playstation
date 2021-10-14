@@ -231,3 +231,39 @@ MAIN
 .af-social img{
   width: 100%;
 }
+
+/*-----------------------
+FOOTER
+-----------------------*/
+
+footer{
+  background-color: #0B3288;
+  font-size: 14px;
+}
+
+/* footer top */
+
+.af-ps-logo{
+  width: 120px;
+}
+
+.fa-globe{
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+
+.af-footer-top ul{
+  list-style: none;
+}
+
+.af-footer-top ul li{
+  color: white;
+  padding: 5px 0;
+}
+
+/* footer bottom */
+
+.af-ps-sie-logo{
+  width: 120px;
+}
