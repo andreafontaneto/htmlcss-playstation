@@ -25,6 +25,59 @@
   color: #135DBF !important;
 }
 
+.af-btn{
+  border-radius: 50px;
+  border: double 2px transparent;
+}
+
+.af-btn-grey{
+  background-color: #292929;
+  background-clip: padding-box;
+}
+
+.af-btn-grey:hover{
+  background-color: #4A5057;
+  box-shadow: 0px 0px 0px 3px #4A5057;
+}
+
+.af-btn-orange{
+  background-color: #BD2A18;
+  background-clip: padding-box;
+}
+
+.af-btn-orange:hover{
+  background-color: #dd341d;
+  box-shadow: 0px 0px 0px 3px #dd341d;
+}
+
+.af-btn-blue{
+  background-color: #285AFF;
+  background-clip: padding-box;
+}
+
+.af-btn-blue:hover{
+  background-color: #264EDB;
+  box-shadow: 0px 0px 0px 3px #264EDB;
+}
+
+.af-btn-white2{
+  background-color: rgba(255, 255, 255, 0.5);
+  background-clip: padding-box;
+}
+
+.af-btn-white2:hover{
+  box-shadow: 0px 0px 0px 3px rgba(255, 255, 255, 0.5);
+}
+
+.af-btn-white{
+  background-color: white;
+  background-clip: padding-box;
+}
+
+.af-btn-white:hover{
+  box-shadow: 0px 0px 0px 3px white;
+}
+
 .af-title1{
   font-size: 40px;
 }
@@ -69,20 +122,6 @@ HEADER
   width: 10px;
 }
 
-.af-btn{
-  border-radius: 50px;
-  border: 2px solid;
-}
-
-/* .btn:hover .af-btn{
-  padding: 10px;
-} */
-
-.af-btn-grey{
-  background-color: #292929;
-  border-color: #292929;
-}
-
 .af-search{
   font-size: 20px;
   margin-left: 20px;
@@ -112,11 +151,6 @@ MAIN
 .af-returnal-logo,
 .af-itt-logo{
   width: 100%;
-}
-
-.af-btn-orange{
-  background-color: #BD2A18 !important;
-  border-color: #BD2A18;
 }
 
 /* jumbo gallery */
@@ -154,11 +188,6 @@ MAIN
 
 .af-ps5-title{
   margin-bottom: 100px;
-}
-
-.af-btn-blue{
-  background-color: #285AFF !important;
-  border-color: #285AFF;
 }
 
 .af-ps5 img{
@@ -224,11 +253,6 @@ MAIN
   width: 60%;
 }
 
-.af-btn-white2{
-  background-color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0);
-}
-
 /* ps store */
 
 .af-psstore img{
@@ -239,10 +263,6 @@ MAIN
 
 .af-psnow{
   background-color: #12152C;
-}
-
-.af-btn-white{
-  background-color: white;
 }
 
 /* social */
@@ -271,7 +291,6 @@ footer{
   font-size: 20px;
   margin-right: 10px;
 }
-
 
 .af-footer-top ul{
   list-style: none;
