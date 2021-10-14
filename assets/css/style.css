@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.af-container-60{
+  width: 60%;
+  margin: 0 auto;
+}
+
 .af-cl-w{
   color: white !important;
 }
@@ -219,4 +224,10 @@ MAIN
 
 .af-btn-white{
   background-color: white;
+}
+
+/* social */
+
+.af-social img{
+  width: 100%;
 }
