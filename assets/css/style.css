@@ -101,7 +101,7 @@ MAIN
   background-image: url('../img/jumbo-bg.png');
 }
 
-.af-jumbo-desc{
+.af-jumbo-desc, .af-jumbo2-desc{
   height: 700px;
 }
 
