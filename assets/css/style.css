@@ -252,6 +252,7 @@ footer{
 
 .af-ps-logo{
   width: 120px;
+  filter: grayscale(100%) brightness(250%);
 }
 
 .fa-globe{
