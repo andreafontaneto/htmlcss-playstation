@@ -54,7 +54,7 @@ HEADER
 /* header bottom */
 .af-header-bottom{
   height: 70px;
-  background-color: lightgrey;
+  background-color: white;
 }
 
 .af-header-bottom ul li{
@@ -71,10 +71,12 @@ HEADER
 
 .af-btn{
   border-radius: 50px;
+  border: 2px solid;
 }
 
 .af-btn-grey{
   background-color: #292929;
+  border-color: #292929;
 }
 
 .af-search{
