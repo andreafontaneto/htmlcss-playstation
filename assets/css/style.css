@@ -34,7 +34,7 @@
 }
 
 .af-title3{
-  font-size: 23px;
+  font-size: 20px;
 }
 
 /*-----------------------
@@ -146,6 +146,7 @@ MAIN
 
 .af-btn-blue{
   background-color: #285AFF !important;
+  border-color: #285AFF;
 }
 
 .af-ps5 img{
