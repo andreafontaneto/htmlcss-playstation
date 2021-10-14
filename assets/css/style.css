@@ -154,17 +154,17 @@ MAIN
 
 /* playstation 5 gallery */
 
-.af-ps5-gallery{
-  height: 200px;
+.af-ps5-gallery img{
+  width: 100%;
 }
 
 .af-ps5-box{
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 230px;
   margin: auto;
 }
 
-.af-ps5-gallery .af-active{
+.af-item-active{
   border-bottom: 2px solid #285AFF;
 }
 
@@ -275,4 +275,16 @@ footer{
 
 .af-ps-sie-logo{
   width: 120px;
+}
+
+/*=============================================================
+MEDIA QUERY
+=============================================================*/
+
+@media screen and (min-width: 768px){
+
+  .af-ps5-gallery img{
+    width: 50%;
+  }
+
 }
