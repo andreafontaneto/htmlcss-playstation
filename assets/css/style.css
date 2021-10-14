@@ -117,19 +117,21 @@ MAIN
 
 /* jumbo gallery */
 
-.af-jumbo-gallery{
-  height: 200px;
+.af-jumbo-box{
+  height: 110px;
+  border-radius: 22px;
+  border: 2px solid rgba(255, 255, 255, 0);
+  overflow: hidden;
 }
 
-.af-jumbo-box{
-  height: 100px;
-  background-color: teal;
-  border-radius: 10px;
-  overflow: hidden;
+.af-active{
+  padding: 2px;
+  border: 2px solid #285AFF;
 }
 
 .af-jumbo-box img{
   width: 100%;
+  border-radius: 20px;
 }
 
 /* playstation 5 */
