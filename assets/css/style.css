@@ -101,6 +101,10 @@ MAIN
   background-image: url('../img/jumbo-bg.png');
 }
 
+.af-jumbo-desc{
+  height: 700px;
+}
+
 .af-returnal-logo,
 .af-itt-logo{
   width: 100%;
@@ -108,6 +112,7 @@ MAIN
 
 .af-btn-orange{
   background-color: #BD2A18 !important;
+  border-color: #BD2A18;
 }
 
 /* jumbo gallery */
