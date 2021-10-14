@@ -279,6 +279,14 @@ footer{
 MEDIA QUERY
 =============================================================*/
 
+@media screen and (min-width: 400px) and (max-width: 767px){
+
+  .af-container-60{
+    width: 100%;
+  }
+
+}
+
 @media screen and (min-width: 768px){
 
   .af-ps5-gallery img{
