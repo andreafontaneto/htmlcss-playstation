@@ -74,6 +74,10 @@ HEADER
   border: 2px solid;
 }
 
+/* .btn:hover .af-btn{
+  padding: 10px;
+} */
+
 .af-btn-grey{
   background-color: #292929;
   border-color: #292929;
@@ -122,6 +126,14 @@ MAIN
   border-radius: 22px;
   border: 2px solid rgba(255, 255, 255, 0);
   overflow: hidden;
+}
+
+.af-jumbo-box:hover {
+  position: relative;
+  bottom: 10px;
+  padding: 0px;
+  border: none;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.3);
 }
 
 .af-active{
