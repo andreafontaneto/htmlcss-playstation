@@ -100,14 +100,14 @@ HEADER
   background-color: black;
 }
 
-.af-logo-sony img{
+.af-sony-logo img{
   width: 80px;
 }
 
 /* header bottom */
 .af-header-bottom{
-  height: 70px;
   background-color: white;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 .af-header-bottom ul li{
@@ -116,6 +116,10 @@ HEADER
 
 .af-header-bottom ul li a{
   color: black !important;
+}
+
+.af-header-bottom ul li:hover a{
+  color: #285AFF !important;
 }
 
 .af-chevron{
@@ -281,7 +285,7 @@ footer{
 
 /* footer top */
 
-.af-ps-logo{
+.af-ps-logo2{
   width: 120px;
   filter: grayscale(100%) brightness(250%);
 }
