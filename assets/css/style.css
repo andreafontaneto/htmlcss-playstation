@@ -297,6 +297,16 @@ MAIN
 
 /* social */
 
+.af-social-card{
+  opacity: 0.7;
+  transition: opacity 0.5s, transform 1s;
+}
+
+.af-social-card:hover{
+  opacity: 1;
+  transform: rotateY(360deg);
+}
+
 .af-social img{
   width: 100%;
 }
