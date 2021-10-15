@@ -164,6 +164,10 @@ MAIN
   border-radius: 22px;
   border: 2px solid rgba(255, 255, 255, 0);
   overflow: hidden;
+  position: relative;
+  bottom: 0;
+
+  transition: bottom 0.3s;
 }
 
 .af-jumbo-box:hover {
@@ -175,6 +179,13 @@ MAIN
 }
 
 .af-active{
+  padding: 0px;
+  border: none;
+
+  transition: all 0.3s;
+}
+
+.af-active:hover{
   padding: 2px;
   border: 2px solid #285AFF;
 }
