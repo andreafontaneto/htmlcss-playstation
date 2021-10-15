@@ -179,13 +179,6 @@ MAIN
 }
 
 .af-active{
-  padding: 0px;
-  border: none;
-
-  transition: all 0.3s;
-}
-
-.af-active:hover{
   padding: 2px;
   border: 2px solid #285AFF;
 }
