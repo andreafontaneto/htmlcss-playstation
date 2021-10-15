@@ -242,6 +242,10 @@ MAIN
   background-color: #181818;
 }
 
+.af-newgame-box{
+  cursor: pointer;
+}
+
 .af-newgame-box img{
   width: 100%;
   border-radius: 20px;
