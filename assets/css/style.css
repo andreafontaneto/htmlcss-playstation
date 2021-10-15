@@ -275,6 +275,16 @@ MAIN
 
 /* ps store */
 
+.af-psstore-item{
+  opacity: 0.7;
+
+  transition: opacity 0.3s;
+}
+
+.af-psstore-item:hover{
+  opacity: 1;
+}
+
 .af-psstore img{
   width: 100%;
 }
